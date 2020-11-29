@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54031b0b-0683-465f-99f8-39ec89230268" name="Default Changelist" comment="" />
+    <list default="true" id="54031b0b-0683-465f-99f8-39ec89230268" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +28,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
@@ -36,7 +53,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606662000015</updated>
-      <workItem from="1606662002606" duration="1517000" />
+      <workItem from="1606662002606" duration="1634000" />
+      <workItem from="1606664186916" duration="879000" />
+      <workItem from="1606665086052" duration="37000" />
+      <workItem from="1606665156479" duration="2444000" />
     </task>
     <servers />
   </component>
@@ -48,5 +68,17 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="358" y="269" key="#com.intellij.fileTypes.FileTypeChooser/-195.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1606662519230" />
+    <state x="453" y="210" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606665116290">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="453" y="210" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-195.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1606665116290" />
+    <state x="100" y="100" width="1336" height="760" key="DiffContextDialog" timestamp="1606666538301">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="100" y="100" width="1336" height="760" key="DiffContextDialog/-195.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1606666538301" />
+    <state x="197" y="28" key="SettingsEditor" timestamp="1606667618087">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="197" y="28" key="SettingsEditor/-195.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1606667618087" />
   </component>
 </project>
